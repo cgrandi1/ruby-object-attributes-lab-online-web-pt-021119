@@ -1,8 +1,8 @@
 class Person 
-  def job=(person_name)
-    @name = dogs_name
+  def job=(persons_name)
+    @job = persons_job
   end
  
-  def name
-    @name
+  def job
+    @job
   end
